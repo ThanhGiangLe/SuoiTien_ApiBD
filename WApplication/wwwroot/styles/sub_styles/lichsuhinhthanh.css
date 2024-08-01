@@ -1,0 +1,16 @@
+.content {
+  margin: 32px 0;
+}
+.content_heading {
+  padding: 24px 0;
+  color: #8c4e2a;
+  font-weight: 700;
+}
+.content_description {
+  font-size: 22px;
+  text-align: justify;
+  margin-top: 24px;
+}
+.container img {
+  width: 100%;
+}

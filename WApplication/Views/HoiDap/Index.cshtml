@@ -1,0 +1,336 @@
+﻿@using ServiceShared.Models
+@section styles {
+    <link rel="stylesheet" href="~/styles/index.css">
+    <link rel="stylesheet" href="~/styles/grid.css">
+    <link href="~/styles/sub_styles/hoidap.css" rel="stylesheet" />
+    <link href="~/styles/sub_styles/sub-navigation.css" rel="stylesheet" />
+
+}
+@model List<GetCommentDB> // Trả về danh sách comment để đổ lên View
+@functions {
+    // Hàm trả về chuỗi thời gian hiển thị comment, nhận vào thời gian bình luận
+    public string FormatTimeAgo(DateTime commentTime)
+    {
+        // Khoản thời gian sau khi: thời gian hiện tại - thời gian comment trước đó
+        TimeSpan timeDifference = DateTime.Now - commentTime;
+
+        // Nếu như timeDifference lớn hơn 1 ngày
+        if (timeDifference.TotalDays >= 1)
+        {
+            // Làm tròn số ngày với một số phần tử nhỏ hơn
+            return $"{(int)timeDifference.TotalDays} ngày trước";
+        }
+        // Nếu như timeDifference lớn hơn 1 tiếng
+        else if (timeDifference.TotalHours >= 1)
+        {
+            return $"{(int)timeDifference.TotalHours} giờ trước";
+        }
+        // Nếu như timeDifference lớn hơn 1 phút
+        else if (timeDifference.TotalMinutes >= 1)
+        {
+            return $"{(int)timeDifference.TotalMinutes} phút trước";
+        }
+        else
+        {
+            return "Vừa mới";
+        }
+    }
+}
+
+<div class="content">
+    <div class="container">
+        <h1 class="content_heading">Hỏi đáp</h1>
+
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Suối Tiên có bao nhiêu cổng
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                Khu du lịch Suối Tiên nằm ở phía Đông Nam của Thành phố Hồ Chí Minh,
+                Việt Nam. Cổng vào chính của khu du lịch này thường được gọi là
+                "Cổng Chính Suối Tiên". Địa chỉ chính xác của nó là 120 AH1, Tân
+                Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Suối Tiên có bao nhiêu trò chơi? Bao nhiêu trò chơi trẻ em? Bao
+                nhiêu trò chơi cảm giác mạnh?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                Khu du lịch Suối Tiên nằm ở phía Đông Nam của Thành phố Hồ Chí Minh,
+                Việt Nam. Cổng vào chính của khu du lịch này thường được gọi là
+                "Cổng Chính Suối Tiên". Địa chỉ chính xác của nó là 120 AH1, Tân
+                Phú, Quận 9, Thành phố Hồ Chí Minh, Việt Nam.
+                <br />
+                Những người tìm kiếm cảm giác mạnh chắc chắn sẽ không cảm thấy lạc
+                lõng ở đây, nơi có nhiều trò chơi mạo hiểm cho cả người lớn và trẻ
+                em. Với hơn 90 trò chơi và hoạt động, Công viên Giải trí Suối Tiên
+                có thể giúp bạn và gia đình giải trí cả ngày dài. Đến đây bạn có thể
+                trả một khoản phụ phí từ 15.000đ đến 60.000đ cho mỗi chuyến đi.
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Những trò chơi nào không bao gồm trong vé trọn gói?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                &nbsp;- Thủy cung <br />
+                &nbsp;- Đu quay đứng <br />
+                &nbsp;- Rạp phim 3D <br />
+                &nbsp;- Công viên Khủng Long <br />
+                &nbsp;- Xe điện tham quan Suối Tiên
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Thời gian hoạt động của Suối Tiên?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                &nbsp;- Suối Tiên hoạt động tất cả các ngày trong tuần (Thứ 2 - Chủ
+                Nhật) <br />
+                &nbsp;- Thời gian mở cửa <br />
+                &nbsp;&nbsp;&nbsp;+ Thứ 2 - Thứ 6: 8h00 - 18h00 <br />
+                &nbsp;&nbsp;&nbsp;+ Thứ 7, Chủ Nhật: 7h30 - 21h00<br />
+                &nbsp;&nbsp;&nbsp;+ Các ngày lễ, Tết: 6h30 - 22h00
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Suối Tiên có mấy bãi giữ xe?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                &nbsp;Đầm Sen có 3 bãi giữ xe tương ứng với vị trí của 3 cổng:
+                <br />
+                &nbsp;&nbsp;&nbsp;– Bãi giữ xe Cổng số 1 (Đường Lạc Long Quân)<br />
+                &nbsp;&nbsp;&nbsp;– Bãi giữ xe Cổng số 1A (Đường Hòa Bình)<br />
+                &nbsp;&nbsp;&nbsp;– Bãi giữ xe Cổng số 2 (Cổng nhà hàng Thủy Tạ –
+                Đường Hòa Bình)
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Có thể đến Suối Tiên bằng phương tiện nào? Những chuyến xe bus nào
+                đi qua Suối Tiên? Gần Suối Tiên có trạm xe bus hay taxi không?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                &nbsp;– Các cổng của CVVH Đầm Sen nằm trên trục đường chính 120 Xa
+                lộ Hà Nội, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh,
+                nên thuận lợi cho du khách di chuyển đến bằng các phương tiện như xe
+                máy, xe ô tô.<br />
+                &nbsp;– Các tuyết buýt có thể về Đầm Sen là: 08, 150, 19, 30, 33,
+                53, 60-1, 60-260-3, 76, 93, và 99….<br />
+                &nbsp;– Liền kề với cổng số 1A (đường 120 Xa lộ Hà Nội) là bến xe
+                buýt Đầm Sen hoạt động từ 9h00 – 21h00 mỗi ngày. Cổng số 2 có bãi xe
+                taxi Vinasun phục vụ theo giờ mở cửa của Đầm Sen.
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Suối Tiên có mấy loại vé? Giá và giá trị sử dụng của từng loại vé
+                thế nào?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                &nbsp;Hiện tại Suối Tiên có 3 loại giá vé: <br />
+                &nbsp;&nbsp;&nbsp;- Giá vé khách lẻ: 120.000đ/ người lớn (cao từ 1m4
+                trở lên); 60.000đ cho trẻ em (1m – 1m4), trẻ dưới 1 tuổi được miễn
+                phí vé. <br />
+                &nbsp;&nbsp;&nbsp;- Giá vé combo 15 trò chơi: 508.000đ/ người lớn và
+                333.000đ/ trẻ em. Hiện đang ưu đãi 50% chỉ còn 249.000/người lớn,
+                199.000/cho trẻ em. <br />
+                &nbsp;&nbsp;&nbsp;- Giá vé tour tham quan cho đoàn từ 20 người trở
+                lên bạn tự liên hệ website của Suối Tiên (www.suoitien.com) để được
+                tư vấn với mức giá ưu đãi.
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Đối tượng khách nào được miễn vé tại Suối Tiên?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                Trẻ em dưới 1m được miễn vé cổng và tham gia miễn phí các trò chơi
+                phù hợp.
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Suối Tiên có bán vé điện tử không? Cần hỏi thông tin về giá vé và
+                chương trình hoạt động tại Suối Tiên thì gọi số nào? Địa chỉ web?
+                Địa chỉ facebook page là gì?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                Đầm Sen chưa áp dụng hình thức bán vé điện tử. <br />
+                Mọi thông tin liên lạc, vui lòng gọi: (08)3963.2483 - 39634963
+                <br />
+                Địa chỉ: 120 Xa lộ Hà Nội, Phường Tân Phú, Thành phố Thủ Đức, Tp.HCM
+                <br />
+                Website: www.khudulichsuoitien.com
+            </p>
+        </div>
+        <div class="dropdown container">
+            <button class="btn dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton2"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                Những ưu đãi nào khi đi nhóm từ 10 người trở lên?
+            </button>
+            <p class="dropdown-menu dropdown-menu-dark"
+               aria-labelledby="dropdownMenuButton2">
+                Khi bạn đến tham quan KDL Suối Tiên với nhóm bạn từ 10 người trở lên
+                bạn sẽ nhận được ưu đãi giảm giá vé. <br />
+                Mọi thông tin vui lòng liên hệ: <br />
+                &nbsp;&nbsp;&nbsp;+ Tâm Du Lịch Suối Tiên <br />
+                &nbsp;&nbsp;&nbsp;+ Địa chỉ: 120 Xa lộ Hà Nội, Phường Tân Phú, Thành
+                phố Thủ Đức, Tp.HCM <br />
+                &nbsp;&nbsp;&nbsp;+ Số điện thoại: (08)3963.2483 - 39634963
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Chứa toàn phần comment -->
+<div class="comment">
+    <!-- Phần của Bootstrap -->
+    <div class="container">
+        <!-- Form bình luận cha-->
+        <div class="comment-form-container">
+            <h2>Leave a Comment</h2>
+            <form class="comment-form" action="" onsubmit="a">
+                <div class="form-group">
+                    <label for="username">Name:</label>
+                    <input type="text" id="username" name="username" required />
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required />
+                </div>
+                <div class="form-group">
+                    <label for="comment">Comment:</label>
+                    <textarea id="comment"
+                              name="comment"
+                              rows="4"
+                              required></textarea>
+                </div>
+                <button style="font-size: 20px;" type="submit" id="submit-comment" onclick="submitComment(event)">Submit</button>
+            </form>
+        </div>
+
+        <!-- Hiển thị danh sách các bình luận -->
+        <div class="comment-list">
+            <!-- Duyệt qua tất các các comment lấy được từ Model -->
+            @foreach (var comment in Model)
+            {
+                <!-- Nếu như ParentID = 0 là bình luận "cấp cha" sẽ hiển thị như bình thường -->
+                if(@comment.ParentID == 0)
+                {
+                    <!-- Giao diện của một bình luận cha -->
+                    <div class="comment-user-container">
+                        <div class="comment-user-info">
+                            <p class="comment-user-info_name">@@@comment.Name</p>
+                            <p class="comment-user-info_time">@FormatTimeAgo(comment.Time)</p>
+                        </div>
+                        <div class="comment-user-content">
+                            @comment.Content
+                        </div>
+                        <div class="comment-user-feedback">
+                            <div class="thumb_up">
+                                <span class="material-symbols-outlined thumb_up-icon-like" data-id="@comment.Id" onclick="toggleLike(@comment.Id)"> thumb_up </span>
+                                <span class="thumb_up-like" data-id="@comment.Id">@comment.LikeC</span>
+                            </div>
+                            <div class="thumb_down">
+                                <span class="material-symbols-outlined thumb_up-icon-dislike" data-id="@comment.Id" onclick="toggleDislike(@comment.Id)"> thumb_down</span>
+                                <span class="thumb_up-dislike" data-id="@comment.Id">@comment.DislikeC</span>
+                            </div>
+                            <p data-id="@comment.Id" class="feedback_@comment.Id" onclick="showFormComment(@comment.Id)">Phản hồi</p>
+                        </div>
+                    </div>
+
+                    <!-- Vị trí để chèn form feedback -->
+                    <div id="feedback-form-container-@comment.Id" 
+                        class="feedback-form-container" 
+                        style="display: none;" 
+                        data-id="@comment.Id">
+                    </div>
+
+                    <!-- Danh sách các feedback của bình luận "cấp cha" -->
+                    <div class="feedback_list feedback_list_@comment.Id" data-id="@comment.Id">
+                        <!-- Duyệt qua tất các các comment lấy được từ Model một lần nữa -->
+                        @foreach (var feedback in Model)
+                        {
+                            <!-- Nếu comment nào có parentID khác 0 thì là feedback -->
+                            if (@feedback.ParentID == @comment.Id)
+                            {
+                                <div class="comment-user-container comment-user-container_@comment.Id">
+                                    <div class="comment-user-info">
+                                        <p class="comment-user-info_name">@@@feedback.Name</p>
+                                        <p class="comment-user-info_time">@FormatTimeAgo(feedback.Time)</p>
+                                    </div>
+                                    <div class="comment-user-content">
+                                        @feedback.Content
+                                    </div>
+                                    <div class="comment-user-feedback">
+                                        <div class="thumb_up">
+                                            <span class="material-symbols-outlined thumb_up-icon-like" data-id="@feedback.Id" onclick="toggleLike(@feedback.Id)"> thumb_up </span>
+                                            <span class="thumb_up-like" data-id="@feedback.Id">@feedback.LikeC</span>
+                                        </div>
+                                        <div class="thumb_down">
+                                            <span class="material-symbols-outlined thumb_up-icon-dislike" data-id="@feedback.Id" onclick="toggleDislike(@feedback.Id)"> thumb_down</span>
+                                            <span class="thumb_up-dislike" data-id="@feedback.Id">@feedback.DislikeC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+

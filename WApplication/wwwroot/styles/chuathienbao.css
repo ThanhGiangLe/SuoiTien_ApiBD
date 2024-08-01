@@ -1,0 +1,17 @@
+.content {
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+.content img {
+    width: 100%;
+}
+.content_heading{
+    padding-bottom: 16px;
+    color: #8C4E2A;
+    font-weight: 700;
+}
+.content_discription{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}

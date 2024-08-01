@@ -1,0 +1,17 @@
+.content {
+    margin: 32px 0;
+}
+.content_heading {
+    padding: 12px 0;
+    color: #8C4E2A;
+    font-weight: 700;
+}
+.content_discription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.content_discription p {
+    font-size: 22px;
+    text-align: justify;
+}

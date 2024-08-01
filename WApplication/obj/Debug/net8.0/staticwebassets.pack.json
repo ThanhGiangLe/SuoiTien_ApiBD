@@ -1,0 +1,2357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WApplication.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\BaoCaoWeb.pdf",
+      "PackagePath": "staticwebassets\\BaoCaoWeb.pdf"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\css\\fonts\\font-import.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\font-import.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\ChuaThienBao.html",
+      "PackagePath": "staticwebassets\\html\\ChuaThienBao.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\DatVeThamQuan.html",
+      "PackagePath": "staticwebassets\\html\\DatVeThamQuan.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\DiaNguc.html",
+      "PackagePath": "staticwebassets\\html\\DiaNguc.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\DuongHam.html",
+      "PackagePath": "staticwebassets\\html\\DuongHam.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\LeBonMua.html",
+      "PackagePath": "staticwebassets\\html\\LeBonMua.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\TauLuon.html",
+      "PackagePath": "staticwebassets\\html\\TauLuon.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\ThuyCung.html",
+      "PackagePath": "staticwebassets\\html\\ThuyCung.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\bando.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\bando.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\congvao.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\congvao.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\dichvu.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\dichvu.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\diemthamquan.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\diemthamquan.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\giave.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\giave.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\hoatdongsankhau.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\hoatdongsankhau.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\hoidap.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\hoidap.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\lichbieudien.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\lichbieudien.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\lichsuhinhthanh.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\lichsuhinhthanh.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\lienhe.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\lienhe.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\phuongtienvanchuyen.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\phuongtienvanchuyen.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\quydinhthamquan.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\quydinhthamquan.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\sulien.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\sulien.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\thoigianhoatdong.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\thoigianhoatdong.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\trochoi.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\trochoi.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\uudai.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\uudai.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\html\\sub_html\\vuonchimthu.html",
+      "PackagePath": "staticwebassets\\html\\sub_html\\vuonchimthu.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\Italic.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\Italic.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\agenda.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\agenda.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\alarm-clock.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\alarm-clock.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\alert.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\alert.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\align-center.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\align-center.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\align-justify.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\align-justify.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\align-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\align-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\align-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\align-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\anchor.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\anchor.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\android.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\android.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-double-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-double-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-double-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-double-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\angle-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\angle-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\announcement.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\announcement.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\apple.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\apple.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\archive.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\archive.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-top-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-top-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-top-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-top-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrow.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrow.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrows-corner.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrows-corner.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrows-horizontal.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrows-horizontal.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\arrows-vertical.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\arrows-vertical.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\back-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\back-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\back-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\back-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bag.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bag.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bar-chart-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bar-chart-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bar-chart.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\basketball.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\basketball.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bell.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bell.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\blackboard.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\blackboard.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bolt-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bolt-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bolt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bolt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\book.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\book.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bookmark-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bookmark-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\briefcase.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\briefcase.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\brush-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\brush-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\brush.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\brush.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\calendar.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\calendar.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\camera.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\camera.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\car.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\car.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\check-box.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\check-box.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\check.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\check.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\clip.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\clip.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\clipboard.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\clipboard.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\close.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\close.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\cloud-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\cloud-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\cloud.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\cloud.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\comment-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\comment-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\comment.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\comment.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\comments-smiley.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\comments-smiley.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\comments.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\comments.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-backward.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-backward.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-eject.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-eject.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-forward.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-forward.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-pause.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-pause.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-play.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-play.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-record.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-record.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-shuffle.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-shuffle.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-skip-backward.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-skip-backward.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-skip-forward.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-skip-forward.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\control-stop.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\control-stop.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\credit-card.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\crown.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\crown.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\css3.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\css3.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\cup.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\cup.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\cut.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\cut.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\dashboard.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\dashboard.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\desktop.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\desktop.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\direction-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\direction-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\direction.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\direction.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\dribbble.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\dribbble.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\dropbox-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\dropbox-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\dropbox.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\dropbox.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\drupal.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\drupal.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\email.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\email.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\envelope.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\envelope.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\eraser.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\eraser.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\exchange-vertical.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\exchange-vertical.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\export.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\export.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\eye.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\eye.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\face-sad.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\face-sad.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\face-smile.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\face-smile.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\facebook.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\facebook.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\file.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\file.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\files.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\files.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\filter.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\filter.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\flag-alt-2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\flag-alt-2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\flag-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\flag-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\flag.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\flag.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\flickr-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\flickr-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\flickr.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\flickr.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\fullscreen.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\gallery.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\gallery.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\game.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\game.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\gift.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\gift.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\github.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\github.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\google.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\google.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-drag.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-drag.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-open.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-open.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-point-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-point-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-point-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-point-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-point-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-point-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-point-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-point-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hand-stop.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hand-stop.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\harddrive.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\harddrive.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\harddrives.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\harddrives.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\headphone-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\headphone-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\headphone.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\headphone.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\heart-broken.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\heart-broken.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\heart.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\heart.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\help-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\help-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\help.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\help.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\home.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\home.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\html5.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\html5.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\hummer.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\hummer.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\id-badge.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\id-badge.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\image.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\image.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\import.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\import.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\infinite.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\infinite.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\info-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\info-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\info.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\info.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ink-pen.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ink-pen.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\instagram.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\instagram.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\joomla.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\joomla.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\jsfiddle.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\jsfiddle.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\key.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\key.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layers-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layers-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layers.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layers.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-accordion-list.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-accordion-list.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-accordion-merged.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-accordion-merged.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-accordion-separated.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-accordion-separated.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column2-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column2-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column3-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column3-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column3.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column3.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column4-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column4-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-column4.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-column4.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-cta-btn-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-cta-btn-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-cta-btn-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-cta-btn-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-cta-center.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-cta-center.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-cta-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-cta-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-cta-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-cta-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid2-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid2-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid2-thumb.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid2-thumb.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid3-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid3-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid3.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid3.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid4-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid4-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-grid4.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-grid4.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-line-solid.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-line-solid.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-list-large-image.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-list-large-image.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-list-post.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-list-post.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-list-thumb-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-list-thumb-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-list-thumb.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-list-thumb.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-center-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-center-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-center.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-center.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-left-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-left-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-overlay-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-overlay-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-overlay.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-overlay.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-right-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-right-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-media-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-media-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-menu-full.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-menu-full.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-menu-separated.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-menu-separated.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-menu-v.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-menu-v.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-menu.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-menu.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-placeholder.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-placeholder.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-sidebar-2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-sidebar-2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-sidebar-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-sidebar-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-sidebar-none.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-sidebar-none.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-sidebar-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-sidebar-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-slider-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-slider-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-slider.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-slider.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-tab-min.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-tab-min.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-tab-v.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-tab-v.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-tab-window.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-tab-window.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-tab.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-tab.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-width-default-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-width-default-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-width-default.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-width-default.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout-width-full.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout-width-full.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\layout.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\layout.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\light-bulb.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\light-bulb.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\line-dashed.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\line-dashed.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\line-dotted.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\line-dotted.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\line-double.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\line-double.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\link.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\link.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\linkedin.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\linkedin.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\linux.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\linux.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\list-ol.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\list-ol.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\list.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\list.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\location-arrow.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\location-arrow.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\location-pin.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\location-pin.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\lock.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\lock.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\loop.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\loop.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\magnet.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\magnet.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\map-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\map-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\map.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\map.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\marker-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\marker-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\marker.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\marker.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\medall-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\medall-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\medall.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\medall.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\menu-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\menu-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\menu.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\menu.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\microphone-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\microphone-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\microphone.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\microphone.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\microsoft-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\microsoft-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\microsoft.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\minus.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\minus.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\mobile.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\mobile.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\money.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\money.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\more-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\more-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\more.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\more.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\mouse-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\mouse-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\mouse.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\mouse.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\music-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\music-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\na.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\na.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\new-window.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\new-window.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\notepad.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\notepad.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\package.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\package.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\paint-bucket.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\paint-bucket.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\paint-roller.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\paint-roller.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\palette.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\palette.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\panel.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\panel.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\paragraph.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\paragraph.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pencil-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pencil-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pencil-alt2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pencil-alt2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pencil.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pencil.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pie-chart.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pin-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pin-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pin.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pin.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pin2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pin2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pinterest-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pinterest-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pinterest.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pinterest.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\plug.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\plug.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\plus.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\plus.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\power-off.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\power-off.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\printer.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\printer.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\pulse.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\pulse.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\quote-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\quote-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\quote-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\quote-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\receipt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\receipt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\reddit.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\reddit.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\reload.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\reload.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\rocket.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\rocket.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\rss-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\rss-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\rss.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\rss.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ruler-alt-2.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ruler-alt-2.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ruler-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ruler-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ruler-pencil.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ruler-pencil.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ruler.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ruler.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\save-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\save-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\save.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\save.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\search.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\search.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\server.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\server.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\share-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\share-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\share.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\share.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\sharethis-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\sharethis-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\sharethis.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\sharethis.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shield.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shield.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shift-left-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shift-left-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shift-left.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shift-left.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shift-right-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shift-right-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shift-right.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shift-right.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shine.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shine.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shopping-cart-full.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shopping-cart-full.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\shortcode.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\shortcode.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\signal.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\signal.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\skype.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\skype.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\slice.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\slice.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\smallcap.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\smallcap.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\soundcloud.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\split-h.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\split-h.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\split-v-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\split-v-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\split-v.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\split-v.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\spray.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\spray.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\stack-overflow.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\stack-overflow.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\stamp.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\stamp.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\star.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\star.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\stats-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\stats-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\stats-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\stats-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\support.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\support.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\tablet.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\tablet.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\tag.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\tag.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\target.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\target.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\text.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\text.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\themify-favicon-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\themify-favicon-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\themify-favicon.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\themify-favicon.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\themify-logo.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\themify-logo.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\thought.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\thought.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\thumb-down.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\thumb-down.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\thumb-up.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\thumb-up.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\ticket.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\ticket.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\time.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\time.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\timer.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\timer.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\trash.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\trash.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\trello.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\trello.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\truck.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\truck.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\tumblr-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\tumblr-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\tumblr.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\tumblr.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\twitter-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\twitter-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\twitter.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\twitter.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\underline.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\underline.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\unlink.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\unlink.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\unlock.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\unlock.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\upload.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\upload.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\uppercase.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\uppercase.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\user.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\user.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\vector.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\vector.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\video-camera.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\video-camera.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\video-clapper.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\video-clapper.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\view-grid.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\view-grid.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\view-list-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\view-list-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\view-list.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\view-list.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\vimeo-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\vimeo-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\vimeo.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\vimeo.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\volume.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\volume.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\wallet.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\wallet.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\wand.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\wand.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\wheelchair.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\wheelchair.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\widget-alt.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\widget-alt.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\widget.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\widget.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\widgetized.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\widgetized.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\window.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\window.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\wordpress.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\wordpress.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\world.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\world.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\write.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\write.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\yahoo.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\yahoo.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\youtube.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\youtube.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\zip.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\zip.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\zoom-in.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\SVG\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\SVG\\zoom-out.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\index.html",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\index.html"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\readme.txt"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\1200px-Fairy_Stream_(Mui_Ne).jpg",
+      "PackagePath": "staticwebassets\\imgs\\1200px-Fairy_Stream_(Mui_Ne).jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\anh-2-13.png",
+      "PackagePath": "staticwebassets\\imgs\\anh-2-13.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\banner\\0jsmv1714020780.png",
+      "PackagePath": "staticwebassets\\imgs\\banner\\0jsmv1714020780.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\banner\\INsoO1714898331.jpg",
+      "PackagePath": "staticwebassets\\imgs\\banner\\INsoO1714898331.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\banner\\OGuee1710143120.png",
+      "PackagePath": "staticwebassets\\imgs\\banner\\OGuee1710143120.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\banner\\VJqYv1711705506.jpg",
+      "PackagePath": "staticwebassets\\imgs\\banner\\VJqYv1711705506.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\banner\\ZshW21714020785.png",
+      "PackagePath": "staticwebassets\\imgs\\banner\\ZshW21714020785.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\cac-tro-choi-o-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\cac-tro-choi-o-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\dia-chi-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\dia-chi-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\cautreo.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\cautreo.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\congviennuoc.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\congviennuoc.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\duongham.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\duongham.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\duonghamduoibien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\duonghamduoibien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\lehoi.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\lehoi.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\ongtruoc.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\ongtruoc.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\sankhaudemen.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\sankhaudemen.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\sankhaungoisao.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\sankhaungoisao.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\tamsuoi.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\tamsuoi.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\tuongsutu.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\tuongsutu.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\vuonnho.JPG",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\vuonnho.JPG"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\diadiemthamquan\\vuonthu.jpg",
+      "PackagePath": "staticwebassets\\imgs\\diadiemthamquan\\vuonthu.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\doitac\\4a9mf1702871657.png",
+      "PackagePath": "staticwebassets\\imgs\\doitac\\4a9mf1702871657.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\doitac\\8JqME1702871654.png",
+      "PackagePath": "staticwebassets\\imgs\\doitac\\8JqME1702871654.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\doitac\\AgnGo1702871645.jpg",
+      "PackagePath": "staticwebassets\\imgs\\doitac\\AgnGo1702871645.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\doitac\\YCA9y1702871660.png",
+      "PackagePath": "staticwebassets\\imgs\\doitac\\YCA9y1702871660.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\doitac\\vaf0s1702871649.jpg",
+      "PackagePath": "staticwebassets\\imgs\\doitac\\vaf0s1702871649.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\dw8bO1676262731.png",
+      "PackagePath": "staticwebassets\\imgs\\dw8bO1676262731.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\en.png",
+      "PackagePath": "staticwebassets\\imgs\\en.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\gGq5bK0bM-e269-vector-trong-dong.jpg",
+      "PackagePath": "staticwebassets\\imgs\\gGq5bK0bM-e269-vector-trong-dong.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\hinh-anh-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hinh-anh-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\khu-du-lich-van-hoa-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\khu-du-lich-van-hoa-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\facebook_2168281.png",
+      "PackagePath": "staticwebassets\\imgs\\logo\\facebook_2168281.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\instagram_1384015.png",
+      "PackagePath": "staticwebassets\\imgs\\logo\\instagram_1384015.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\tiktok_3116491.png",
+      "PackagePath": "staticwebassets\\imgs\\logo\\tiktok_3116491.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\twitter_2168336.png",
+      "PackagePath": "staticwebassets\\imgs\\logo\\twitter_2168336.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\z5445660239428_67468d4be526c7534b73f0a051ad6042.jpg",
+      "PackagePath": "staticwebassets\\imgs\\logo\\z5445660239428_67468d4be526c7534b73f0a051ad6042.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\z5445660239504_24ae31219796b57a257477994d1cba64.jpg",
+      "PackagePath": "staticwebassets\\imgs\\logo\\z5445660239504_24ae31219796b57a257477994d1cba64.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\z5445660239506_3a8266342b5f72f6837944bc60ba487d.jpg",
+      "PackagePath": "staticwebassets\\imgs\\logo\\z5445660239506_3a8266342b5f72f6837944bc60ba487d.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\z5445660239507_6aab47c28e65fdd25df972d3057bda02.jpg",
+      "PackagePath": "staticwebassets\\imgs\\logo\\z5445660239507_6aab47c28e65fdd25df972d3057bda02.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\logo\\z5445660239508_231dc6e07033ddc132ddfd0426281340.jpg",
+      "PackagePath": "staticwebassets\\imgs\\logo\\z5445660239508_231dc6e07033ddc132ddfd0426281340.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\map.jpg",
+      "PackagePath": "staticwebassets\\imgs\\map.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\maplogo.jpg",
+      "PackagePath": "staticwebassets\\imgs\\maplogo.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\maps.jpg",
+      "PackagePath": "staticwebassets\\imgs\\maps.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\phuong-tien-van-chuyen-damsen.jpg",
+      "PackagePath": "staticwebassets\\imgs\\phuong-tien-van-chuyen-damsen.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\saigon_khu-du-lich-suoi-tien-sai-gon-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\saigon_khu-du-lich-suoi-tien-sai-gon-1.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\saigon_khu-du-lich-suoi-tien-sai-gon-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\saigon_khu-du-lich-suoi-tien-sai-gon-2.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sankhau\\san-khau-de-men-damsen-300x200.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sankhau\\san-khau-de-men-damsen-300x200.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sankhau\\sankhaungoisao-congviendamsen-300x172.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sankhau\\sankhaungoisao-congviendamsen-300x172.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\bien_tien_dong_suoi_tien_1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\bien_tien_dong_suoi_tien_1.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\khu_du_lich_suoi_tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\khu_du_lich_suoi_tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\lich-su-hinh-thanh-khu-du-lich-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\lich-su-hinh-thanh-khu-du-lich-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\slider\\suoi-tien-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\slider\\suoi-tien-3.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sub-banner.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sub-banner.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\datve.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\datve.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\green.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\green.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\hesoidong.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\hesoidong.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\hoithi.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\hoithi.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\le30_4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\le30_4.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\sukien\\lehoitraicay.png",
+      "PackagePath": "staticwebassets\\imgs\\sukien\\lehoitraicay.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\suoi-tien-logo.png",
+      "PackagePath": "staticwebassets\\imgs\\suoi-tien-logo.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\suoi-tien-o-dau.jpg",
+      "PackagePath": "staticwebassets\\imgs\\suoi-tien-o-dau.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\tham-quan-suoi-tien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\tham-quan-suoi-tien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thu\\borua.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thu\\borua.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thu\\bosat.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thu\\bosat.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thu\\chimhoangda.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thu\\chimhoangda.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thu\\vuonchim.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thu\\vuonchim.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thu\\vuonthu.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thu\\vuonthu.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\7F6M11681437523.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\7F6M11681437523.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\AmqtN1681437532.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\AmqtN1681437532.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\GJNDy1681437514.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\GJNDy1681437514.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\INCSL1681437506.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\INCSL1681437506.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\VDdx81681437526.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\VDdx81681437526.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\VuXuX1681437518.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\VuXuX1681437518.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\NNjm81694055913.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\NNjm81694055913.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\PHaYj1694055948.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\PHaYj1694055948.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\WlOrI1694055975.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\WlOrI1694055975.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\jVEfm1694056012.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\jVEfm1694056012.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\nTQWq1694055930.jpg",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\nTQWq1694055930.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\thuvien\\video\\s03fN1694056055.png",
+      "PackagePath": "staticwebassets\\imgs\\thuvien\\video\\s03fN1694056055.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\chothuan.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\chothuan.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\duonghamduoibien.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\duonghamduoibien.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\lãie.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\lãie.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\nuoc.png",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\nuoc.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\ongtruoc.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\ongtruoc.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\tamsuoi.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\tamsuoi.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\tauluon.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\tauluon.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\truocmangnuoc.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\truocmangnuoc.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\trochoi\\vongxoay.jpg",
+      "PackagePath": "staticwebassets\\imgs\\trochoi\\vongxoay.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\83h1W1680686448.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\83h1W1680686448.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\CHmBa1702623832.png",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\CHmBa1702623832.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\HzO511709447525.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\HzO511709447525.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\I6AVn1680686172.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\I6AVn1680686172.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\IMG_5777.JPG",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\IMG_5777.JPG"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\MH5WD1692158729.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\MH5WD1692158729.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\WDWBZ1685607639.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\WDWBZ1685607639.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\ap35x1692158511.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\ap35x1692158511.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\bài viết website tất niên.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\bài viết website tất niên.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\datve.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\datve.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\hHDLc1680686370.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\hHDLc1680686370.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\hu5HX1692066579.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\hu5HX1692066579.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\ibMJ71702871686.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\ibMJ71702871686.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\kcRsa1709891393.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\kcRsa1709891393.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\m84K51680685906.jpg",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\m84K51680685906.jpg"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\uTQP61694832252.png",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\uTQP61694832252.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\uudai\\wAsZF1706754517.png",
+      "PackagePath": "staticwebassets\\imgs\\uudai\\wAsZF1706754517.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\imgs\\vi.png",
+      "PackagePath": "staticwebassets\\imgs\\vi.png"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\chuathienbao.css",
+      "PackagePath": "staticwebassets\\styles\\chuathienbao.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\dianguc.css",
+      "PackagePath": "staticwebassets\\styles\\dianguc.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\duongham.css",
+      "PackagePath": "staticwebassets\\styles\\duongham.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\grid.css",
+      "PackagePath": "staticwebassets\\styles\\grid.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\index.css",
+      "PackagePath": "staticwebassets\\styles\\index.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\lebonmua.css",
+      "PackagePath": "staticwebassets\\styles\\lebonmua.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\bando.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\bando.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\congvao.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\congvao.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\dichvu.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\dichvu.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\diemthamquan.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\diemthamquan.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\giave.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\giave.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\hoatdongsankhau.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\hoatdongsankhau.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\hoidap.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\hoidap.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\lichbieudien.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\lichbieudien.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\lichsuhinhthanh.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\lichsuhinhthanh.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\lienhe.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\lienhe.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\phuongtienvanchuyen.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\phuongtienvanchuyen.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\quydinhthamquan.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\quydinhthamquan.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\sub-navigation.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\sub-navigation.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\sukien.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\sukien.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\thoigianhoatdong.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\thoigianhoatdong.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\trochoi.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\trochoi.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\uudai.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\uudai.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\sub_styles\\vuonchimthu.css",
+      "PackagePath": "staticwebassets\\styles\\sub_styles\\vuonchimthu.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\tauluon.css",
+      "PackagePath": "staticwebassets\\styles\\tauluon.css"
+    },
+    {
+      "Id": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\styles\\thuycung.css",
+      "PackagePath": "staticwebassets\\styles\\thuycung.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WApplication.props",
+      "PackagePath": "build\\WApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WApplication.props",
+      "PackagePath": "buildMultiTargeting\\WApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WApplication.props",
+      "PackagePath": "buildTransitive\\WApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

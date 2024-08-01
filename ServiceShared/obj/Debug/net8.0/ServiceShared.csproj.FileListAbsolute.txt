@@ -1,0 +1,11 @@
+D:\NET\MyWeb\ServiceShared\bin\Debug\net8.0\ServiceShared.deps.json
+D:\NET\MyWeb\ServiceShared\bin\Debug\net8.0\ServiceShared.dll
+D:\NET\MyWeb\ServiceShared\bin\Debug\net8.0\ServiceShared.pdb
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.AssemblyInfoInputs.cache
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.AssemblyInfo.cs
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.csproj.CoreCompileInputs.cache
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.dll
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\refint\ServiceShared.dll
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ServiceShared.pdb
+D:\NET\MyWeb\ServiceShared\obj\Debug\net8.0\ref\ServiceShared.dll

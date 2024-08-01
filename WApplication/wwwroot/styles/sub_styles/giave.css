@@ -1,0 +1,25 @@
+.content {
+    margin: 32px 0;
+}
+.content_heading {
+    padding: 12px 0;
+    color: #8C4E2A;
+    font-weight: 700;
+}
+.content_discription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 24px;
+}
+.content_discription p {
+    font-size: 20px;
+    text-align: justify;
+}
+table, th, td {  
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 8px;
+    font-size: 20px;
+    text-align: center;
+}

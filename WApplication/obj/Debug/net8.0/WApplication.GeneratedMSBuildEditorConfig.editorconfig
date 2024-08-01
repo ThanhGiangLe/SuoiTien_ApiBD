@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WApplication
+build_property.RootNamespace = WApplication
+build_property.ProjectDir = D:\NET\MyWeb\WApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NET\MyWeb\WApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NET/MyWeb/WApplication/Views/GgMap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2dNYXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/GiaVe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhVmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/HoatDong/SuKien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hdERvbmdcU3VLaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/HoiDap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9pRGFwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/KhamPhaSuoiTien/CongVao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhbVBoYVN1b2lUaWVuXENvbmdWYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/KhamPhaSuoiTien/DiemThamQuan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhbVBoYVN1b2lUaWVuXERpZW1UaGFtUXVhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/KhamPhaSuoiTien/HoatDongSanKhau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhbVBoYVN1b2lUaWVuXEhvYXREb25nU2FuS2hhdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/KhamPhaSuoiTien/TroChoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhbVBoYVN1b2lUaWVuXFRyb0Nob2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/KhamPhaSuoiTien/VuonChimThu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhbVBoYVN1b2lUaWVuXFZ1b25DaGltVGh1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/ChuaThienBao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxDaHVhVGhpZW5CYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/DiaNguc12Tang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxEaWFOZ3VjMTJUYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/DuongHam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxEdW9uZ0hhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/LeBonMua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxMZUJvbk11YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/TauLuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxUYXVMdW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/More/ThuyCung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVxUaHV5Q3VuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/LayoutBody/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEJvZHlcZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/LayoutBody/header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEJvZHlcaGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/LayoutBody/navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEJvZHlcbmF2aWdhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/LayoutBody/subNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEJvZHlcc3ViTmF2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/BanDo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cQmFuRG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/DichVu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cRGljaFZ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/LichBieuDien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cTGljaEJpZXVEaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/LichSuHinhThanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cTGljaFN1SGluaFRoYW5oLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/PhuongTienVanChuyen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cUGh1b25nVGllblZhbkNodXllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/QuyDinhThamQuan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cUXV5RGluaFRoYW1RdWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/SuoiTien/ThoiGianHoatDong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VvaVRpZW5cVGhvaUdpYW5Ib2F0RG9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/UuDai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXVEYWlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NET/MyWeb/WApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uct5by1qkk

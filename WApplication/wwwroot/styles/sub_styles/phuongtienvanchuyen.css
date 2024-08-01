@@ -1,0 +1,20 @@
+.content {
+    margin: 32px 0;
+}
+.content_heading {
+    padding: 24px 0;
+    color: #8C4E2A;
+    font-weight: 700;
+}
+.content_discription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 12px;
+}
+.content_discription img {
+    padding: 10px 100px;
+}
+.content_discription p {
+    font-size: 22px;
+}

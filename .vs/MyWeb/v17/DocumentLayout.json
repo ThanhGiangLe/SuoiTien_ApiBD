@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\MyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFF199-D056-4DFE-A277-4B06CB152624}|WApplication\\WApplication.csproj|d:\\net\\myweb\\wapplication\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3EDFF199-D056-4DFE-A277-4B06CB152624}|WApplication\\WApplication.csproj|solutionrelative:wapplication\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "WApplication\\wwwroot\\js\\index.js",
+              "ToolTip": "D:\\NET\\MyWeb\\WApplication\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "WApplication\\wwwroot\\js\\index.js",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwB8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-12T10:27:45.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
